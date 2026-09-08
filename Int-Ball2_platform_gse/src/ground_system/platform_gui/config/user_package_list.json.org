@@ -18,6 +18,12 @@
       "launch": [
         "template_py.launch"
       ]
+    },
+    {
+      "user": "master",
+      "launch": [
+	"all.launch"
+      ]
     }
   ]
 }
